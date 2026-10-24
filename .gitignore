@@ -1,0 +1,19 @@
+# Dataset (xBD) — too large for git
+train/
+test/
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Model artifacts / logs
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+runs/
+wandb/
