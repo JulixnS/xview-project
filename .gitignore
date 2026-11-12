@@ -20,3 +20,6 @@ wandb/
 
 # Project plan (local reference only, not pushed)
 PHASE2_PLAN.md
+
+# Slurm job scripts and logs (local for now)
+sbatch_files/
