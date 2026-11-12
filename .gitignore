@@ -17,3 +17,6 @@ checkpoints/
 *.ckpt
 runs/
 wandb/
+
+# Project plan (local reference only, not pushed)
+PHASE2_PLAN.md
